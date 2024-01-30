@@ -4,7 +4,7 @@ import HomeSlider from "./componets/HomeSlider";
 function App() {
   return (
     <div className="App">
-      <h1>This is home page</h1>
+      <h1>Days of Code</h1>
       <HomeSlider />
     </div>
   );
